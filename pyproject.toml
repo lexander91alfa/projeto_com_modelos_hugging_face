@@ -22,6 +22,8 @@ nbformat = "^5.10.4"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
+jupyter = "^1.0.0"
+ipywidgets = "^8.0.0"
 
 [build-system]
 requires = ["poetry-core"]
